@@ -4,6 +4,11 @@ This is a fun and simple Flutter app that allows users to ask a yes-or-no questi
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/5ee74b0f-b5a7-4a6f-bb9a-71403e0869da
+
+
+
 ## Features
 - Displays an answer image based on a random number.
 - Simple user interface with a button to get a new answer.
